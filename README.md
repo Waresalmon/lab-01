@@ -14,4 +14,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 | Student Name | CCID      |
 | ------------ | --------- |
 | `Benjamin Hall`    | `bbhall` |
-| `Bradley B` | `bsbraven`  |
+| `Bradley Bravender` | `bsbraven`  |
