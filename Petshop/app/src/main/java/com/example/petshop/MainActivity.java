@@ -37,5 +37,11 @@ public class MainActivity extends AppCompatActivity {
         pettablePets.add(cat);
         pettablePets.add(dog);
         //pettablePets.add(scorpion); //<- This is an error
+
+        ArrayList<Mood> moodList = new ArrayList<Mood>();
+        Happy glad = new Happy();
+        Sad depressed = new Sad();
+        moodList.add(glad);
+        moodList.add(depressed);
     }
 }

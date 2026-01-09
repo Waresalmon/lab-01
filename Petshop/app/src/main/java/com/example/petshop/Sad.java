@@ -5,4 +5,10 @@ public class Sad extends Mood {
     public Sad(Date date){
         super(date);
     }
+    public Sad (){super();}
+
+    @Override
+    public String defineMood(){
+        return ":(";
+    }
 }

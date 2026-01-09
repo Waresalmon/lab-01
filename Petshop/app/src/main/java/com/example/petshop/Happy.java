@@ -6,4 +6,12 @@ public class Happy extends Mood{
     public Happy(Date date){
         super(date);
     }
+    public Happy(){
+        super();
+    }
+
+    @Override
+    public String defineMood(){
+        return ":)";
+    }
 }
